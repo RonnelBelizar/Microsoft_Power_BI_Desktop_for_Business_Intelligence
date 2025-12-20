@@ -1,5 +1,28 @@
 # Learning Journal
 
+### Day 02 — (12/20/25)
+
+- 📘 What I studied today:
+  - Types of data connectors
+    - Flat files
+    - Connecting thru MySQL
+  - Basic table transformations
+    - Checking table headers, data types, etc
+    - Basics on how to deal with delimiters
+  - Web scraping
+
+- 💻 What I practiced:
+  - Basic pbix transformations
+
+- 💡 Key takeaway:
+  - This surprised me because this can also be done in SQL but the process is simpler
+  - Having an internal web scraping capability is also great. I did all of this in Python which was harder to do
+
+- ❓ Open questions:
+  - How powerful is pbix versus python / SQL?
+
+---
+
 ### Day 01 (Restart) — (12/19/25)
 
 - 📘 What I studied today:
