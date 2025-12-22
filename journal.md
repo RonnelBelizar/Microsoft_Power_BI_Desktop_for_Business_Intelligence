@@ -1,5 +1,25 @@
 # Learning Journal
 
+### Day 04 — (12/22/25)
+
+- 📘 What I studied today:
+  - Data QA and Profiling tools
+  - Text tools
+  - Numerical Tools
+  - Date & Time Tools
+
+- 💻 What I practiced:
+  - Hovering through transformation tools in query editor
+
+- 💡 Key takeaway:
+  - These are basically Transfrom step from the ETL stuffs I have learned from IBM data Engineering but these are simpler to do since they are UI based
+  - I am grateful I have learned ETL and SQL first before all of these as these became easier to understand
+
+- ❓ Open questions:
+  - 
+
+---
+
 ### Day 02 — (12/20/25)
 
 - 📘 What I studied today:
