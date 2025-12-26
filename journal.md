@@ -1,5 +1,26 @@
 # Learning Journal
 
+### Day 05 — (12/26/25)
+
+- 📘 What I studied today:
+  - Change type with Locale
+  - Rolling Calendars
+  - Index & Conditional Columns
+  - Grouping and Aggregating
+  - Pivoting and Unpivoting
+  - Merging Queries
+
+- 💻 What I practiced:
+  - Hovered query editor tools
+
+- 💡 Key takeaway:
+  - Same concepts with SQL — makes it easier to understand since I have background
+
+- ❓ Open questions:
+  - 
+
+---
+
 ### Day 04 — (12/22/25)
 
 - 📘 What I studied today:
