@@ -1,5 +1,31 @@
 # Learning Journal
 
+### Topics To Go Back
+
+  - 44. Data Source Parameters
+    - This has something to do with dealing with switching with development and production projects especially with MySQL project that I am to do soon
+
+---
+
+### Day 06 — (12/27/25)
+
+- 📘 What I studied today:
+  - Appending queries
+  - Appending files from a folder
+  - data source settings
+  - refreshing queries
+
+- 💻 What I practiced:
+  - Hovered query editor tools
+
+- 💡 Key takeaway:
+  - 
+
+- ❓ Open questions:
+  - 
+
+---
+
 ### Day 05 — (12/26/25)
 
 - 📘 What I studied today:
