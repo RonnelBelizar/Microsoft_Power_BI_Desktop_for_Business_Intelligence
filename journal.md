@@ -7,6 +7,27 @@
 
 ---
 
+### Day 08 — (12/29/25)
+
+- 📘 What I studied today:
+  - Data modeling
+  - Dabase normalization
+  - Fact & dimension tables
+  - PK & FK
+  - Star & snowflake schemas
+  - Connecting multiple fact tables
+
+- 💻 What I practiced:
+  - Connected tables
+
+- 💡 Key takeaway:
+  - Connecting a fact table to the dimension tables is new to me since in SQL, fact tables are like 'queries' done when the schemas are defined — which are originally not included in database design like there is an extra layer of queries done in Power BI (which makes sense) vs MySQL for instance.
+
+- ❓ Open questions:
+  - 
+
+---
+
 ### Day 06 — (12/27/25)
 
 - 📘 What I studied today:
