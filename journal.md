@@ -7,6 +7,25 @@
 
 ---
 
+### Day 09 — (12/30/25)
+
+- 📘 What I studied today:
+  - Filter Context and Filter Flow
+  - Bi-Directional Filters and Ambiguity
+  - Hiding Fields from Report View
+  - Model Layouts
+  - Data Formats and Categories
+  - Creating Hierarchies
+
+- 💻 What I practiced:
+  - Data modeling
+
+- 💡 Key takeaway:
+  - This is essentially important to learn because this taught me to build an appropriate data models in PowerBI which is needed before I even touch the daat visualization part
+
+- ❓ Open questions:
+  - How much of this should be done first in SQL before it touches PowerBI?
+
 ### Day 08 — (12/29/25)
 
 - 📘 What I studied today:
