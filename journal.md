@@ -5,6 +5,31 @@
   - 44. Data Source Parameters
     - This has something to do with dealing with switching with development and production projects especially with MySQL project that I am to do soon
 
+### Day 11 — (01/01/26)
+
+- 📘 What I studied today:
+  - DAX
+    - DAX vs M-Language
+    - Intro to DAX calculated columns
+    - DAX Measures
+    - Implicit vs Explicit
+    - Quick Measures
+    - Calculated Columns vs Measures
+    - Filter Context
+    - Step-by-Step DAX Measure calculation
+    - DAX Syntax and Operators
+    - Common DAX Function Categories
+
+- 💻 What I practiced:
+  - DAX
+    - Calculated Columns & Measures
+
+- 💡 Key takeaway:
+  - This is pretty similar with SQL. This is where back-end computation happens.
+
+- ❓ Open questions:
+  - How far should I learn this? How much work should be done in SQL first before deciding how much DAX should be done?
+
 ---
 
 ### Day 09 — (12/30/25)
