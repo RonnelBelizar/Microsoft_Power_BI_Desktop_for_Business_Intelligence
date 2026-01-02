@@ -5,6 +5,24 @@
   - 44. Data Source Parameters
     - This has something to do with dealing with switching with development and production projects especially with MySQL project that I am to do soon
 
+### Day 12 — (01/02/26)
+
+- 📘 What I studied today:
+  - DAX
+    - Basic Math and Stat Functions
+    - Conditional and Logical Functions
+
+- 💻 What I practiced:
+  - DAX
+
+- 💡 Key takeaway:
+  - Fundamental aggregations
+
+- ❓ Open questions:
+  - 
+
+---
+
 ### Day 11 — (01/01/26)
 
 - 📘 What I studied today:
