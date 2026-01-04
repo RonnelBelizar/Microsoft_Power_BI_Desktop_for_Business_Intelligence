@@ -5,6 +5,27 @@
   - 44. Data Source Parameters
     - This has something to do with dealing with switching with development and production projects especially with MySQL project that I am to do soon
 
+---
+
+### Day 14 — (01/04/26)
+
+- 📘 What I studied today:
+  - DAX
+    - SWITCH
+    - Common Text Functions
+    - Basic Date and Time Functions
+
+- 💻 What I practiced:
+  - DAX
+
+- 💡 Key takeaway:
+  - The context is very similar wwith SQL
+
+- ❓ Open questions:
+  - 
+
+---
+
 ### Day 12 — (01/02/26)
 
 - 📘 What I studied today:
