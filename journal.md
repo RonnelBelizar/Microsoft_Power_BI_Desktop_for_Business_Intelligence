@@ -5,6 +5,24 @@
   - 44. Data Source Parameters
     - This has something to do with dealing with switching with development and production projects especially with MySQL project that I am to do soon
 
+### Day 21 — (01/11/26)
+
+- 📘 What I studied today:
+  - DAX
+    - Related Function
+    - DAX measure totals
+    - All Function
+    - Filter Function
+
+- 💻 What I practiced:
+  - Measures and Matrix
+
+- 💡 Key takeaway:
+  - This is very useful for aggregation
+
+- ❓ Open questions:
+  - How much of it is needed for my upcoming project?
+
 ---
 
 ### Day 14 — (01/04/26)
