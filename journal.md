@@ -5,6 +5,28 @@
   - 44. Data Source Parameters
     - This has something to do with dealing with switching with development and production projects especially with MySQL project that I am to do soon
 
+### Day 31 — (01/21/26)
+
+NOTE: I have been busy for the past couple of days designing my RDBMS and ETL script so there was a delay on my Power BI progress.
+
+- 📘 What I studied today:
+  - DAX
+    - Filter Function
+    - Iterator Functions
+    - Time Intelligence
+    - Best Practices
+
+- 💻 What I practiced:
+  - DAX
+
+- 💡 Key takeaway:
+  - Very useful for advanced analytics
+
+- ❓ Open questions:
+  - How much of it is needed for my upcoming project?
+
+---
+
 ### Day 21 — (01/11/26)
 
 - 📘 What I studied today:
